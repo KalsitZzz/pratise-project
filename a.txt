@@ -4,3 +4,4 @@ ver3.0
 ver4.0
 ver5.0
 ver6.0
+ver7.0
